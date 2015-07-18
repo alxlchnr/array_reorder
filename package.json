@@ -1,7 +1,7 @@
 {
   "name": "array_reorder",
-  "version": "0.0.2",
-  "description": "rearrange columns of a csv file",
+  "version": "0.0.3",
+  "description": "rearrange array values",
   "main": "app.js",
   "keywords": [
     "array",
