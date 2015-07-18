@@ -4,7 +4,7 @@ Provides a reorder function which reorders the elements of an array according to
 
 ### usage:
 ```javascript
-var array_reorder = require('array-reorder');
+var array_reorder = require('array_reorder');
 var reorderedArray=array_reorder.reorder(['a', 'b'], {0: 1, 1: 0})
 // reorderedArray is now ['b','a']
 ```
