@@ -1,0 +1,17 @@
+{
+  "name": "array_reorder",
+  "version": "0.0.1",
+  "description": "rearrange columns of a csv file",
+  "main": "app.js",
+  "keywords": [
+    "array",
+    "reorder"
+  ],
+  "author": "alxlchnr",
+  "license": "ISC",
+  "repository": "https://github.com/alxlchnr/array_reorder",
+  "devDependencies": {
+    "mocha": "2.2.5",
+    "better-objects": "1.0.2"
+  }
+}
