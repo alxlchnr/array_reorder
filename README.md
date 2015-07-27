@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/alxlchnr/array_reorder.svg?branch=master)](https://travis-ci.org/alxlchnr/array_reorder)
+[![npm version](https://badge.fury.io/js/array_reorder.svg)](http://badge.fury.io/js/array_reorder)
 
 array-reorder
 ==============
