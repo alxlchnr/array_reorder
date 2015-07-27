@@ -1,6 +1,6 @@
 {
   "name": "array_reorder",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "rearrange array values",
   "main": "app.js",
   "keywords": [
