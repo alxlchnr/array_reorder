@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/alxlchnr/array_reorder.svg?branch=master)](https://travis-ci.org/alxlchnr/array_reorder)
+
 array-reorder
 ==============
 Provides a reorder function which reorders the elements of an array according to a given configuration object.
