@@ -9,6 +9,9 @@
   ],
   "author": "alxlchnr",
   "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": "https://github.com/alxlchnr/array_reorder",
   "devDependencies": {
     "mocha": "2.2.5",
